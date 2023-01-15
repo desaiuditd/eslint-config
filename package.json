@@ -1,6 +1,6 @@
 {
   "name": "@desaiuditd/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Opinionated eslint config(s)",
   "main": "",
   "scripts": {},
@@ -14,9 +14,6 @@
     "url": "https://github.com/desaiuditd/eslint-config/issues"
   },
   "homepage": "https://github.com/desaiuditd/eslint-config#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.48.1",
     "@typescript-eslint/parser": "^5.48.1",
