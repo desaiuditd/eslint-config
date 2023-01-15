@@ -1,6 +1,6 @@
 {
   "name": "@desaiuditd/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Opinionated eslint config(s)",
   "main": "",
   "scripts": {},

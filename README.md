@@ -14,3 +14,20 @@ npm i -D @desaiuditd/eslint-config \
 	eslint-plugin-sort-keys-fix \
 	typescript
 ```
+
+## Configure
+
+```js
+// .eslintrc.js
+
+module.exports = {
+	extends: [
+		// For JavaScript rules.
+		'@desaiuditd/eslint-config/javascript',
+		// For TypeScript rules.
+		'@desaiuditd/eslint-config/typescript',
+		// For React rules.
+		'@desaiuditd/eslint-config/react',
+	],
+};
+```
