@@ -1,0 +1,17 @@
+{
+  "name": "@desaiuditd/eslint-config",
+  "version": "1.0.0",
+  "description": "Opinionated eslint config(s)",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desaiuditd/eslint-config.git"
+  },
+  "author": "Udit Desai",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/desaiuditd/eslint-config/issues"
+  },
+  "homepage": "https://github.com/desaiuditd/eslint-config#readme"
+}
