@@ -15,7 +15,6 @@ module.exports = {
 		{
 			files: [
 				'.eslintrc.js',
-				'next.config.js',
 			],
 			rules: { 'import/no-commonjs': 'off' },
 		},
