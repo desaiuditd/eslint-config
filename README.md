@@ -10,6 +10,7 @@ npm i -D @desaiuditd/eslint-config \
 	@wordpress/eslint-plugin \
 	eslint \
 	eslint-plugin-import \
+	eslint-plugin-react \
 	eslint-plugin-react-hooks \
 	eslint-plugin-sort-keys-fix \
 	typescript
