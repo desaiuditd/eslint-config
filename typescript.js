@@ -21,7 +21,7 @@ module.exports = {
 				'@typescript-eslint/prefer-ts-expect-error': 'error',
 				'@typescript-eslint/quotes': [ 'error', 'single' ],
 				'@typescript-eslint/semi': [ 'error' ],
-				'@typescript-eslint/sort-type-union-intersection-members': [ 'error' ],
+				'@typescript-eslint/sort-type-constituents': [ 'error' ],
 				'@typescript-eslint/space-before-function-paren': [
 					'error',
 					{
