@@ -1,6 +1,8 @@
 # eslint-config
 Opinionated eslint config(s)
 
+Project not maintained actively. In favour of @biomejs/biome.
+
 ## Install
 
 ```
